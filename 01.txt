@@ -38,3 +38,4 @@ tttt
 ohh
 test
 lol
+/start_registration
