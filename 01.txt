@@ -39,3 +39,4 @@ ohh
 test
 lol
 /start_registration
+/help
