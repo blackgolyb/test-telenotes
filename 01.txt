@@ -41,3 +41,4 @@ lol
 /start_registration
 /help
 tete
+test
