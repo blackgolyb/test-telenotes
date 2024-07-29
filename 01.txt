@@ -44,3 +44,4 @@ tete
 test
 test
 tseyt
+/start_registration
