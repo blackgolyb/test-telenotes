@@ -45,3 +45,4 @@ test
 test
 tseyt
 /start_registration
+/start_registration
